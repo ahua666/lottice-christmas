@@ -6,7 +6,7 @@ import Lottie from './components/lottie.vue'
 
 <template>
   <Lottie width="100%" height="100%" style="background-color: #000000" ></Lottie>
-
+<!--随便修改下，部署香港节点-->
   <!--  <header>-->
 <!--    &lt;!&ndash;    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />&ndash;&gt;-->
 
